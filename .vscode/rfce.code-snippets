@@ -1,0 +1,24 @@
+"React Component": {
+	"prefix": "rccf",
+	"body": [
+	  "import React, { Component } from 'react';",
+	  "",
+	  "class MyComponent extends Component {",
+	  "  render() {",
+	  "    return (",
+	  "      <div>",
+	  "        {/* Your component content here */}",
+	  "      </div>",
+	  "    );",
+	  "  }",
+	  "}",
+	  "",
+	  "export default MyComponent;"
+	],
+	"description": "Create a React Class Component"
+  }
+ 
+  
+  
+  
+  
